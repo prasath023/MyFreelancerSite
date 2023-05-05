@@ -1,0 +1,34 @@
+.header{
+    background:#ebeef1;
+    
+}
+.menu{
+    border-radius:50px;
+    background:#ebeef1;
+    color:black;
+    border:none;
+    box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+                -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+.btn1{
+    border-radius:50px;
+    background:#ebeef1;
+    color:black;
+    border:none;
+    box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+                -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+
+.effect1{
+    box-shadow: inset 10px 10px 10px -1px rgba(10,99,169,0.16),
+                inset -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+.groupLine1{
+width:18px;
+height:2px;
+background:black;
+
+}
+.menuLine{
+margin-bottom:2px;
+}

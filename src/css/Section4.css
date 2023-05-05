@@ -1,0 +1,48 @@
+.companies{
+    border-radius:20px;
+    background:#ebeef1;
+    width:300px;
+    color:black;
+    border:none;
+    box-shadow:  10px 10px 10px -1px rgba(10,99,169,0.16),
+                 -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+.companiesLogo{
+    border-radius:20px;
+    background:#ebeef1;
+    width:300px;
+    height:60px;
+    color:black;
+    border:none;
+    box-shadow:  10px 10px 10px -1px rgba(10,99,169,0.16),
+                 -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+.groupBtn:hover .groupArr{
+    padding-left:7px;
+   transition:0.2s;
+}
+.groupBtn{
+    width:125px;
+    background:black;
+}
+
+.groupBtn:hover .groupLine{
+    width:20px;
+    
+}
+.groupLine{
+width:15px;
+height:2px;
+background:white;
+margin-top:1px;
+
+}
+
+@media only screen and (max-width: 600px) {
+.section4{
+
+margin-bottom:750px;
+
+}
+
+}

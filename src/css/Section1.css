@@ -1,0 +1,29 @@
+.div5{
+margin-top:715px;
+}
+
+.container1{
+    border-radius:20px;
+    background:#ebeef1;
+    width:300px;
+    color:black;
+    border:none;
+    box-shadow:  10px 10px 10px -1px rgba(10,99,169,0.16),
+                 -10px -10px 10px -1px rgba(255,255,255,0.70)
+}
+.textSize{
+font-size:15px
+}
+.ul{
+color:black;
+opacity:1
+}
+
+@media only screen and (max-width: 600px) {
+.container1{
+ width:270px;
+ }
+ .textSize{
+font-size:13px
+}
+}
